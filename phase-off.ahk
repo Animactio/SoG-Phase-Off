@@ -65,7 +65,7 @@ SpamGo(total_frames, wait := 1) {
 	; reason, then the waiting time is purely for travel time.
 
 	; Start the course with correct timing; a slight delay after the 1st spinning barrel points up
-	Frames(154)	; NOTE: Some users may need to change this value if they find their timing is off
+	Frames(155)	; NOTE: Some users may need to change this value if they find their timing is off
 	Go()
 
 	; Fire out of the stationary barrel facing right
